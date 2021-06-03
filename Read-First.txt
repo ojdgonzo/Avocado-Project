@@ -1,1 +1,0 @@
-This is an ongoing school project to clean up and make a presentable dataset for avocado-updated-2020.xlsx
